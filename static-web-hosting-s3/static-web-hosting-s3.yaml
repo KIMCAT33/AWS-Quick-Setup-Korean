@@ -1,8 +1,9 @@
 
 AWSTemplateFormatVersion: 2010-09-09
 Parameters:
-    MyBucketName:
-        Description: a unique name for S3 Bucket
+    FullDomainName:
+        AllowedPattern: (?!-)[a-zA-Z0-9-.]{1,63}(?<!-)
+        Description: The full unique domain name e.g. www.example.com
         Type: String
 
 
@@ -10,7 +11,7 @@ Resources:
     S3Bucket:
       Type: AWS::S3::Bucket
       Properties:
-        BucketName: !Ref MyBucketName
+        BucketName: !Ref FullDomainName
         AccessControl: PublicRead
         WebsiteConfiguration:
             IndexDocument: index.html
