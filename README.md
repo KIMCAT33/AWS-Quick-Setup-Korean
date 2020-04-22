@@ -2,5 +2,5 @@
 <hr>
 <h2> Purpose </h2>
 <hr>
-<h3> This repo is for AWS users who wanna set up their AWS resources more easily with CloudFormation templates </h3>
+<h5> This repo is for AWS users who wanna set up their AWS resources more easily with CloudFormation templates </h5>
 
