@@ -8,3 +8,5 @@
     <li>Site users access the internet as individual users.</li>
     <li>Prioritize costs and do not consier multiplexed backups.</li>
 </ul>
+
+<img src="./image/event_site.png" alt="event site diagram">
