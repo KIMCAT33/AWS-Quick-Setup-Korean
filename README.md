@@ -7,6 +7,10 @@
 <p> CloudFormation을 사용하게 되면 템플릿을 이용해 단 한번에 모든 리소스를 생성할 수 있으며, 변경 이력을 관리할 수 있게 됩니다. 또한 cost estimation을 통해 전체 리소스를 구성했을 때 예상되는 비용도 한 꺼번에 예측할 수 있습니다. 다양한 리전에 비슷한 리소스 구성을 할 때도 간편하게 설정할 수 있다는 장점을 가지며 필요에 따라 커스터마이징도 가능합니다.</p> 
 <br>
 
+<ul>
+    <li><a href="https://github.com/KIMCAT33/AWS-Quick-Setup-Korean/tree/master/static-web-hosting-s3">S3를 이용한 정적 웹호스팅</a>
+    <li><a href="https://github.com/KIMCAT33/AWS-Quick-Setup-Korean/tree/master/web-system/event-site">이벤트 사이트</a>
+</ul>
 
 <br>
 <img src="https://d1.awsstatic.com/Products/product-name/diagrams/product-page-diagram_CloudFormation.ad3a4c93b4fdd3366da3da0de4fb084d89a5d761.png" alt="CloudFormation Process">
