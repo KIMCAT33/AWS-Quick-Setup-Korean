@@ -1,26 +1,27 @@
-<h1>Event Site</h1>
+<h1>이벤트 사이트</h1>
 <hr>
-<h2>Description</h2>
-<p>This is a template for an event site.</p>
-<p>The site is expected like belows:<p>
+<h2>이벤트 사이트 개요</h2>
+<p>이 템플릿은 이벤트 사이트를 호스팅하기 위한 템플릿입니다.</p>
+<p>사이트 특징은 다음과 같습니다:<p>
 <ul>
-    <li>Use for 1 month only.</li>
-    <li>Site users access the internet as individual users.</li>
-    <li>Prioritize costs and do not consier multiplexed backups.</li>
+    <li>1개월 한정으로 이용합니다.</li>
+    <li>사이트 사용자는 개인 사용자로서 인터넷으로 접속합니다.</li>
+    <li>비용을 우선하며 다중화나 백업은 고려하지 않습니다.</li>
 </ul>
 
-<h2>Resource Diagram</h2>
+
+<h2>아키텍처 구성도</h2>
 <img src="./image/event_site.png" alt="event site diagram">
 
-<h2>How to Use</h2>
-<h3>1. You have to upload event-site.yaml</h3>
+<h2>어떻게 사용하는가</h2>
+<h3>1. event-site.yaml 파일을 업로드합니다.</h3>
 <img src="./image/first.PNG">
 <br>
 
-<h3>2. You have to set all configurations according to your event site</h3>
+<h3>2. 본인의 event-site 구성에 맞게 파라미터를 적용합니다.</h3>
 <img src="./image/second.PNG">
 </br>
 
-<h3>3. You can esimate the prediected cost of your event site</h3>
+<h3>3. event-site 리소스에 대한 예상되는 비용을 산출할 수 있습니다.</h3>
 <img src="./image/third.PNG">
 

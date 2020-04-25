@@ -1,2 +1,2 @@
-<h1>Web System</h1>
-<p> This is templates for 3-tier architecture which consists of web, application and database<p>
+<h1>웹 시스템</h1>
+<p>이 템플릿은 웹, 애플리케이션 그리고 데이터베이스로 구성되는 3티어 아키텍처를 가진 웹 시스템을 위한 템플릿들입니다.</p>
